@@ -5,7 +5,7 @@ Description:
 Everyone knows Fruit Ninja; meet 112 Ninja! 
 This high-octane gaming experience will free you of your once sedentary lifestyle.
 Instead of swiping your fingers on mom's iPad like everyone else, our app allows
-you to truly embody the way of the *warrior/ninja* by making this classic gameplay
+you to truly embody the way of the 112 Ninja by making this classic gameplay
 a whole-body experience. Leveraging OpenCV video analysis with Mediapipe 
 Human Pose Estimation, our software tracks your index finger, turning it to a
 truly powerful sword that slices through fruits and Piazza with ease--watch
