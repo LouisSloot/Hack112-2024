@@ -2,6 +2,8 @@ Hack112@CMU 2024 Overall 2nd Place
 
 Link to demo video from the hackathon: https://drive.google.com/file/d/1BeprMzL2pHqYl_OPLO5cpwgZmCY4-SLW/view?usp=drive_link
 
+Note: 'Kosbie mode' refers to CMU Teaching Professor David Kosbie, Director and Co-Founder of CMU CS Academy as well as the 15-112 curriculum; he has very spirited opinions about certain softwares, services, and objects, as evidenced within this project.
+
 Description:
 
 Everyone knows Fruit Ninja; meet 112 Ninja! 
