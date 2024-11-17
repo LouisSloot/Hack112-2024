@@ -1,5 +1,7 @@
 Hack112@CMU 2024 Overall 2nd Place
 
+Link to demo video from the hackathon: https://drive.google.com/file/d/1BeprMzL2pHqYl_OPLO5cpwgZmCY4-SLW/view?usp=drive_link
+
 Description:
 
 Everyone knows Fruit Ninja; meet 112 Ninja! 
@@ -18,6 +20,7 @@ mediapipe
 cmu_graphics
 
 *Run main.py to begin the program.
+ 
 
 Citations:
 https://www.geeksforgeeks.org/python-opencv-cv2-cvtcolor-method/
