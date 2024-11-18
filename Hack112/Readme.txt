@@ -1,4 +1,4 @@
-Hack112@CMU 2024 Overall 2nd Place
+Hack112@CMU 2024 Overall 1st Place
 
 Link to demo video from the hackathon: https://drive.google.com/file/d/1BeprMzL2pHqYl_OPLO5cpwgZmCY4-SLW/view?usp=drive_link
 
