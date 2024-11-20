@@ -13,7 +13,13 @@ you to truly embody the way of the 112 Ninja by making this classic gameplay
 a whole-body experience. Leveraging OpenCV video analysis with Mediapipe 
 Human Pose Estimation, our software tracks your index finger, turning it to a
 truly powerful sword that slices through fruits and Piazza with ease--watch
-out for bombs and Kosbies, though! 
+out for bombs and Kosbies, though!
+
+Contributors:
+Louis Sloot: lsloot@andrew.cmu.edu
+Pietro Coppola Di Canzano: pcoppola@andrew.cmu.edu
+Dylan Yang: dylany@andrew.cmu.edu
+Hridayam Tusnial: htusnial@andrew.cmu.edu
 
 Dependencies:
 
