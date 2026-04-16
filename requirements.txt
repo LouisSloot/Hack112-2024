@@ -1,4 +1,0 @@
-# Requires Python 3.11 or 3.12 (NOT 3.13+)
-cmu-graphics
-opencv-python==4.10.0.84
-mediapipe==0.10.14
